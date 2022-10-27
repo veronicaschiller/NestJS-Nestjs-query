@@ -58,6 +58,7 @@ $ yarn start:dev
 
 <a href="https://github.com/veronicaschiller"><img src="https://github.com/veronicaschiller.png" width="45" height="45"></a> &nbsp;
 <a href="https://github.com/PedroJardel"><img src="https://github.com/PedroJardel.png" width="45" height="45"></a> &nbsp;
-<a href="yurisilva.soares@hotmail.com"></a> &nbsp;
+<a href="https://github.com/yurisilvasoares"><img src="https://github.com/yurisilvasoares.png" width="45" height="45"></a> &nbsp;
+
 
 
